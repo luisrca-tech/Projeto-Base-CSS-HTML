@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px){
+
+    .main-paragraph {
+        font-size: 11px;
+    }
+
+    .main-title {
+        font-size: 35px;
+    }
+
+    .featured-image img {
+        width: 110%;
+    }
+
+    figcaption {
+        font-size: 10px;
+    }
+
+    .biography-container h2 {
+        font-size: 15px;
+    }
+
+    .biography-container p {
+        font-size: 13px;
+    }
+
+    .quotes-container blockquote {
+        font-size: 15px;
+    }
+
+    .quotes-container p {
+        font-size: 12px;
+    }
+
+    .curiosities-container h2 {
+        font-size: 17px;
+    }
+
+    .curiosities-container li {
+        font-size: 13px;
+    }
+
+    .img-bold img {
+        width: 100%;
+    }
+}
